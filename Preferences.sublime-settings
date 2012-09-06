@@ -1,19 +1,23 @@
 {
-        "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-        "draw_white_space": "selection",
-        "ensure_newline_at_eof_on_save": true,
-        "fold_buttons": false,
-        "font_size": 12,
-        "highlight_line": true,
-        "line_padding_bottom": 0.5,
-        "line_padding_top": 0.5,
-        "rulers": [100],
-        "scroll_past_end": true,
-        "tab_completion": true,
-        "tab_size": 4,
-        "theme": "Pseudo OSX.sublime-theme",
-        "translate_tabs_to_spaces": true,
-        "trim_automatic_white_space": true,
-        "trim_trailing_white_space_on_save": true,
-        "word_wrap": false
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fold_buttons": false,
+	"font_size": 12,
+	"highlight_line": true,
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"rulers":
+	[
+		70,
+		100
+	],
+	"scroll_past_end": true,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Pseudo OSX.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
