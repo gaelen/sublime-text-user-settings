@@ -18,6 +18,7 @@
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "__pycache__"],
 
 	"phoenix_eighties": true,
 	"phoenix_sidebar_tree_large": true,
