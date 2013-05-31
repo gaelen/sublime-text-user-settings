@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"Git",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimErl",
+		"Theme - Phoenix"
+	]
+}
