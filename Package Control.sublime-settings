@@ -1,15 +1,12 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"LESS",
 		"Markdown Preview",
 		"Package Control",
 		"Rust",
-		"SublimeCodeIntel",
 		"SublimeGit",
-		"SublimeLinter",
-		"SublimErl",
+		"Table Editor",
 		"Theme - Phoenix"
 	]
 }

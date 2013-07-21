@@ -1,4 +1,5 @@
 User-settings.sublime-project
 *.cache
 Package Control.last-run
+SublimeGit.sublime-settings
 
