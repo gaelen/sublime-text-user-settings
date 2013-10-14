@@ -18,7 +18,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Markdown Preview",
+		"Vintage",
+		"Table Editor"
 	],
 	"line_padding_bottom": 0.5,
 	"line_padding_top": 0.5,
@@ -31,7 +33,8 @@
 	"rulers":
 	[
 		70,
-		100
+		79,
+		99
 	],
 	"scroll_past_end": true,
 	"tab_completion": true,
