@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"Apache Pig",
+		"Better CoffeeScript",
 		"Jade",
 		"Julia",
 		"LESS",
