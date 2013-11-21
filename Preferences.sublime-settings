@@ -14,12 +14,13 @@
 		"CVS",
 		"__pycache__"
 	],
-	"font_size": 12.0,
+	"font_size": 14.5,
+    "font_face": "Cosmic Sans Neue Mono",
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
 		"Table Editor",
+		"Vintage",
 		"Markdown Preview"
 	],
 	"line_padding_bottom": 0.5,
