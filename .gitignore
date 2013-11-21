@@ -1,6 +1,6 @@
 User-settings.sublime-project
 *.cache
-*.system-ca-bundle
+*.*ca*
 Package Control.last-run
 SublimeGit.sublime-settings
 
