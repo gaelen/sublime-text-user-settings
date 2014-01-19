@@ -14,8 +14,8 @@
 		"CVS",
 		"__pycache__"
 	],
-	"font_face": "Cosmic Sans Neue Mono",
-	"font_size": 15.5,
+	"font_face": "Fantasque Sans Mono",
+	"font_size": 16.5,
 	"highlight_line": true,
 	"ignored_packages":
 	[
